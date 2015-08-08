@@ -1,6 +1,6 @@
-# CS100.1x Introduction to Big Data with Apache Spark
+# CS100.1x & CS190.1x - Big Data & Machine Learning with Apache Spark  
 
-These are the labs I did as part of the CS100.1x MOOC.
+These are the labs I did as part of the CS100.1x and CS190.1x MOOC.
 I started with prior python experience but no apache spark knowledge.
 
 ## MOOC Details
@@ -9,8 +9,8 @@ __Date:__ June 2015
 __School__ University of California, Berkeley  
 
 ## Certificate
-[CS100.1x](https://s3.amazonaws.com/verify.edx.org/downloads/bc828109d5c747b790571144a623f732/Certificate.pdf)  
-[CS190.1x](https://s3.amazonaws.com/verify.edx.org/downloads/666aa575bf6e4519a3ec0ef5e44c6841/Certificate.pdf)  
+[CS100.1x certificate](https://s3.amazonaws.com/verify.edx.org/downloads/bc828109d5c747b790571144a623f732/Certificate.pdf)  
+[CS190.1x certificate](https://s3.amazonaws.com/verify.edx.org/downloads/666aa575bf6e4519a3ec0ef5e44c6841/Certificate.pdf)  
 
 ## Description 
 The questions are written directly into each file,  
